@@ -99,6 +99,6 @@ function gitoddnumber(num){
     return oddnumber;
 }
 
-let mynum =[23,45,68,56,78,35,65,23,67,98,34,12];
-let oddnumber = gitoddnumber(mynum);
-console.log(oddnumber);
+// let mynum =[23,45,68,56,78,35,65,23,67,98,34,12];
+// let oddnumber = gitoddnumber(mynum);
+// console.log(oddnumber);

@@ -1,4 +1,4 @@
-function isLeapYear(year){
+function isLeapYears(year){
     let remainder = year % 4;
     if(remainder === 0){
         console.log("your year is leap year", year);
@@ -7,7 +7,7 @@ function isLeapYear(year){
         console.log("your year is no't leap year", year);
     }
 }
-// isLeapYear(2004);
+//   isLeapYears(2005);
 
 
 
@@ -22,5 +22,5 @@ function isLeapYear(year){
         return false;
     }
 }
-let myYear = isLeapYear(2008);
-console.log("my year",myYear);
+// let myYear = isLeapYear(2024);
+// console.log("my year",myYear);
